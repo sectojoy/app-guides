@@ -4,6 +4,10 @@ Practical guides for our iPhone, iPad, and Mac apps. Start with what you want to
 
 > Maintained by the developer. This repository contains public guides and examples, not the app source code, installers, or beta builds.
 
+## Black Friday 2026
+
+[ImageTiny, SpeedPlayer, and PresentCam: Black Friday 2026 offers](black-friday-2026.md). One-time Pro Lifetime discounts in all App Store regions through November 28, 2026 at 23:59:59 UTC. See your local App Store for pricing.
+
 ## Work and creation
 
 | App | What to try | App Store |
