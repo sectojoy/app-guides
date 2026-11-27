@@ -1,6 +1,6 @@
 # Black Friday 2026: iPhone and iPad app deals
 
-**U.S. App Store only.** These offers end **November 28, 2026 at 23:59:59 UTC** (6:59:59 p.m. ET / 3:59:59 p.m. PT). Each is a one-time Pro Lifetime in-app purchase, not a subscription. No code is needed. Download the app, open its Lifetime upgrade, and check the price before confirming.
+**Available in all App Store regions.** The prices below are U.S. examples; check your local App Store for local prices. These offers end **November 28, 2026 at 23:59:59 UTC** (6:59:59 p.m. ET / 3:59:59 p.m. PT). Each is a one-time Pro Lifetime in-app purchase, not a subscription. No code is needed. Download the app, open its Lifetime upgrade, and check the price before confirming.
 
 | App | What it does | U.S. regular → sale price |
 |---|---|---|
